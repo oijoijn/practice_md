@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "postman": {
+      "url": "https://mcp.postman.com/minimal",
+      "disabled": false,
+      "autoApprove": [
+        "getWorkspaces",
+        "getCollection"
+      ]
+    }
+  }
+}
